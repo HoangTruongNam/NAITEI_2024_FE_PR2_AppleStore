@@ -26,7 +26,17 @@
     min-height: 250px;
     background-color: white;
     transform: translate(100%, -28%);
+    
+    /* box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.4s ease; */
+
 }
+
+/* .product img:hover{
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.4s ease;
+
+} */
 
 .ad2-product:hover {
     transform: scale(1.01);

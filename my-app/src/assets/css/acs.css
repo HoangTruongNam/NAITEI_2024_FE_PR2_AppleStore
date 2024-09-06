@@ -24,7 +24,16 @@
     transition: transform 0.3s ease;
     border-radius: 12px;
     transform: translateY(20px);
+    /* box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.4s ease; */
+
 }
+
+/* .product img:hover{
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.4s ease;
+
+} */
 
 .acs-product:hover {
     transform: scale(1.01);
@@ -37,6 +46,7 @@
     transform: translateX(-50%);
     background-color: transparent;
     top: 22px;
+    
 }
 
 .acs-product-info h2 {
@@ -72,6 +82,7 @@
     border-radius: 50%;
     opacity: 0.8;     
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+
 }
 
 .slick-slider {
